@@ -110,7 +110,7 @@ My motto is to solve complex healthcare problems with the help of AI.
 - 📄 [Certificate](#) 
 
 # Languages
-- <strong>Full professional proficiency:</strong> English, Hindi, Bengali
+- <strong>Full professional proficiency:</strong> English, Hindi
 # My Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmp438" alt="pmp438" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmp438&show_icons=true&locale=en&layout=compact" alt="pmp438" /></p>
