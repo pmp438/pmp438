@@ -26,7 +26,7 @@ My motto is to solve complex healthcare problems with the help of AI.
 ### 📝 Best Research Paper Awards
 - 🥇 Won **Best Paper Award** at **ICAIA 2024** (Publisher: Springer)  
 - 🥇 Won **Best Paper Award** at **AICVMD 2025**, Banaras Hindu University (Publisher: Springer)  
-- 📄 [Certificate](#) *(Add links if available)*
+- 📄 [Certificate](#)
 
 ---
 
